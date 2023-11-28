@@ -19,7 +19,7 @@ print(type(10))       #int
 print(type(3.14))     # Float
 print(type(1+3j))     #complex 
 print(type('name')) #string 
-print(([1,2,3,4,5,6,7,8,9])) #list 
-print(type({'aaksnha':'poonam'})) #dictionary 
-print(([1.2,2.3,9.4,7.14])) #set 
-print(((1.2,7.6,0.9)))      #tuple 
+print(type([1,2,3,4,5,6,7,8,9])) #list 
+print(type({'aakansha':'poonam'})) #dictionary 
+print(type({1.2,2.3,9.4,7.14})) #set 
+print(type((1.2,7.6,0.9)))      #tuple 

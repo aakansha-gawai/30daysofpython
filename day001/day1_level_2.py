@@ -17,7 +17,7 @@ print(type(10))  #integer
 print(type(8.9))  #float 
 print(type(1+9j)) #complex 
 print(type('aakansha'))  #string
-print(type(1,2,3,4,5,6,7,8,9)) #list
-print(type ('aakansha','poonam'))   #dictionary
+print(type([1,2,3,4,5,6,7,8,9])) #list
+print(type({'aakansha','poonam'}))  #dictionary
 print(type({1,1.2,7,6.5}))         #set 
-print(type(((1,2.3,4,5.6))))       #tuple
+print(type((1,2.3,4,5.6)))      #tuple
