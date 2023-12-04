@@ -3,7 +3,7 @@ y=3
 print(x+y)
 print(x-y)
 print(x**y)
-print(x%y)
+print(x%y)  #division 2/2->1 then reminder is 1 thats why output will be 1 
 
 a=True
 b=False

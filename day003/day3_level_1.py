@@ -5,3 +5,4 @@ val= None
 print(val)#print"none"returns allso none 
 print(type(val))
 print(type("Aakansha"))
+

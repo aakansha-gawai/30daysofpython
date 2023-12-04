@@ -8,3 +8,5 @@ first='batman'[4]
 print(first)
 print=len('batman')
 
+
+
